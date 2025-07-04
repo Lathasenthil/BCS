@@ -1,0 +1,167 @@
+
+code quality- 5 pillar
+1. readability
+2. maintainability -code debt,reuse refactoring, clear, 
+3. Extensibility- camera easy accessable 
+4.Testability - easy to testing purpose
+5. performance- time complexity o(n)
+
+
+
+Declarative-what to do 
+imperative - how to do 
+
+refactoring - output is same , but quality is increase
+unittest case - developer write 
+
+
+cypress browser
+
+immutable is not change 
+mutable is change 
+o of ncube complexiability
+increase in linera way 
+join default value ,
+
+array reduce - what are the operation we do in the element  repeat current sum from another value  big problem reduce to piece 
+
+
+software life cycle:-
+
+planning 
+analsysis 
+design 
+implementation 
+testing intergration 
+maintenance - supporting team 
+cloud js 
+
+
+stake holder responsible person for the wholeteam 
+
+
+6 phases of the software development life cycle 
+analysis
+design 
+development
+testing 
+deployment 
+maintenance 
+
+
+chief officer
+pmo
+designer
+frontend
+backend
+quality
+dop
+customer
+
+
+waterfall
+we do the construction we use waterfall 
+
+requirements - agile  two weeks once work - sprint 
+design 
+development
+delivery 
+maintenance
+
+ab testing for job for dop 
+ring relalise window inside program
+
+agile is faster 
+
+scrum - two 
+story point taken for 10 days rnd ricket for 8 
+sprint planning 2 hour
+time period is story point for solve the problem bug solved period is story point
+story point (0+1)(1+2=3)(3+2=5)(5+3=8)(8+5=13)
+one sprint is 14 days 
+
+every day we connect stand up meeting for 10 minutes regarding spirit 
+dependence ticket is blocked i am unable to work that ie blocker 
+overflow or speed over last spirit pending points 
+spirit review - humble 
+spirit retrosprint = see the back point /going to see the back / 
+timesnew roman first in mac book not for window
+blocker team 
+
+kanborn  board
+
+to do /in progress/done/backlog -
+jira also project creating app 
+
+
+todo current sprit
+backlog we can put the backlog into todo
+
+pripority is po denotes pripority p1 higher pripority  
+backlog ticketis medium shirt rough estimate not
+enter the ticket in between the ticket name is adhoc without planning they raise the ticket 
+board name is kanborn board  prepare the project 
+1. to do 
+2. in progress
+3.code review
+3. done
+4. backlog
+
+to do click the start point no need to enter the backlog document 
+
+stage -
+backlog go to to do 
+to do go in progress
+in process go to review 
+review is checking code 
+
+review give the review looks good to me 
+the ticket goes to done 
+
+the chart name is burnday chart- graph
+anything break in the chart that is adhoc
+
+sprit name is demo 
+spik name is scrum master called as lead
+backlog convert to do in manager 
+ticket is convet into short point 
+
+in progress chart is burnup chart 
+
+spice is add and remove muttable 
+muttable is change 
+inmuttable is not change 
+
+in sort method postivie is moving negative is not moving 
+sort give the report postivie negative zero 
+predicate is function which return  in Boolean 
+every , some , fliter is also known as predicate 
+
+predicate means true or false
+positive and negative zerois called as comparative type
+
+
+
+1995 content document is html
+html is forgiving
+UTF-8 unique code is convertor
+
+tag or element 
+
+order list not convert into unordered list because visually impaired 
+
+head 
+heading tool bar
+header
+number i
+alphabetic A
+decorative item 
+
+
+
+
+ 
+
+
+
+
